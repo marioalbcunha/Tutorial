@@ -1,0 +1,12 @@
+﻿#EXTM3U
+
+################################# CANAIS ABERTOS
+
+#EXTINF:0 tvg-id="Band" tvg-name="Band HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band HD
+http://dns.infinitytv.xyz:8000/zezinho/zezinho/7047
+
+#EXTINF:0 tvg-id="BandNews" tvg-name="Band News FHD" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Abertos",BandNews FHD
+http://dns.infinitytv.xyz:8000/zezinho/zezinho/20885
+
+#EXTINF:0 tvg-id="Globo sP" tvg-name="Globo SP FHD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo FHD
+http://dns.infinitytv.xyz:8000/zezinho/zezinho/21615
