@@ -1,0 +1,32 @@
+﻿#EXTM3U
+
+################################# CANAIS ABERTOS
+#EXTINF:0 tvg-id="Band" tvg-name="Band HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band HD
+http://dns.infinitytv.xyz:8000/zezinho/zezinho/7047
+
+#EXTINF:0 tvg-id="BandNews" tvg-name="Band News FHD" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Abertos",Band News FHD
+http://dns.infinitytv.xyz:8000/zezinho/zezinho/20885
+
+#EXTINF:0 tvg-id="Globo sP" tvg-name="Globo SP FHD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP FHD
+http://dns.infinitytv.xyz:8000/zezinho/zezinho/21615
+
+#EXTINF:0 tvg-id="Globo sP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
+http://dns.infinitytv.xyz:8000/zezinho/zezinho/17241
+
+#EXTINF:0 tvg-id="GloboNews" tvg-name="Globo News FHD" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Abertos",Globo News FHD
+http://dns.infinitytv.xyz:8000/zezinho/zezinho/21625
+
+#EXTINF:0 tvg-id="RecordTV" tvg-name="Record SP FHD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",Record SP FHD
+http://dns.infinitytv.xyz:8000/zezinho/zezinho/21622
+
+#EXTINF:0 tvg-id="Record News" tvg-name="Record News FHD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Abertos",Record News FHD
+http://dns.infinitytv.xyz:8000/zezinho/zezinho/29662
+
+#EXTINF:0 tvg-id="RedeTV!" tvg-name="Rede TV FHD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",Rede TV FHD
+http://dns.infinitytv.xyz:8000/zezinho/zezinho/7046
+
+#EXTINF:0 tvg-id="SBT" tvg-name="SBT FHD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT FHD
+http://dns.infinitytv.xyz:8000/zezinho/zezinho/12662
+
+#EXTINF:0 tvg-id="Gazeta" tvg-name="TV Gazeta HD" tvg-logo="https://4.bp.blogspot.com/-njl0j_tJ_j8/T9pJrd6srTI/AAAAAAAAMWo/69-3gYzq9uY/s1600/Logo+TV+Gazeta.png" group-title="Canais | Abertos",TV Gazeta HD
+http://dns.infinitytv.xyz:8000/zezinho/zezinho/18202
