@@ -1,0 +1,507 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Band HD">
+    <display-name lang="pt">Band HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Band News FHD">
+    <display-name lang="pt">Band News FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Globo FHd">
+    <display-name lang="es">Globo FHd</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Redord SP FHD">
+    <display-name lang="pt">Redord SP FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Record News FHD">
+    <display-name lang="pt">Record News FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Rede TV FHD">
+    <display-name lang="pt">Rede TV FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SBT FHD">
+    <display-name lang="pt">SBT FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20190522000000 -0300" stop="20190522005000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Um resumo de tudo que aconteceu de relevante durante o dia, no Brasil e no Mundo. Analises, entrevistas e matérias especiais aprofundam os temas mais importantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522005000 -0300" stop="20190522005500 -0300" channel="Band HD">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <desc lang="pt">A memória esportiva brasileira sendo resgatada(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522005500 -0300" stop="20190522011000 -0300" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <desc lang="pt">As melhores pegadinhas da tv, no formato clássico de câmeras escondidas, brincando com as pessoas que passam nas ruas, praças e centros comerciais(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190522011000 -0300" stop="20190522030000 -0300" channel="Band HD">
+    <title lang="pt">O Mais Rápido Game Show</title>
+    <desc lang="pt">Programa interativo com distribuição de prêmios(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190522030000 -0300" stop="20190522043500 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto - Reapresentação</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522043500 -0300" stop="20190522053000 -0300" channel="Band HD">
+    <title lang="pt">Os Donos da Bola - Reapresentação</title>
+    <desc lang="pt">O craque Neto comanda o programa mais bem-humorado sobre o mundo do futebol. Ele e seus convidados tem uma meta: descobrir quem é o do dono da bola(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522053000 -0300" stop="20190522060000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522060000 -0300" stop="20190522070000 -0300" channel="Band HD">
+    <title lang="pt">Jornal Bandnews</title>
+    <desc lang="pt">As principais noticias da hora com a equipe do canal especializado em jornalismo, 24 horas por dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522070000 -0300" stop="20190522080000 -0300" channel="Band HD">
+    <title lang="pt">Café com Jornal</title>
+    <desc lang="pt">Informação descontraída, leve, dinâmica, com assuntos de interesse imediato. Com a participação de colunistas especializados nos temas que fazem parte do cotidiano. Noticia de qualidade desde cedo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522080000 -0300" stop="20190522090000 -0300" channel="Band HD">
+    <title lang="pt">Café com Jornal - Edição Brasil</title>
+    <desc lang="pt">Muita prestação de serviço e a participação do público, interagindo com a equipe do noticioso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522090000 -0300" stop="20190522110000 -0300" channel="Band HD">
+    <title lang="pt">Mundo Animado</title>
+    <desc lang="pt">Faixa dedicada à aventura e diversão com exibição de destacadas produções animadas da tv mundial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522110000 -0300" stop="20190522123000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">As principais notícias do futebol e um debate diário com jornalistas e esportistas sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522123000 -0300" stop="20190522130000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522130000 -0300" stop="20190522140000 -0300" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">O craque Neto comanda o programa mais bem-humorado sobre o mundo do futebol. Ele e seus convidados tem uma meta: descobrir quem é o do dono da bola(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522140000 -0300" stop="20190522150000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <desc lang="pt">Bem-estar, culinária, notícias de famosos, astrologia, dicas de limpeza, organização de casa e faça você mesmo. Sem rotina, todo dia uma tarde diferente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522150000 -0300" stop="20190522160000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <desc lang="pt">Bem-estar, culinária, notícias de famosos, astrologia, dicas de limpeza, organização de casa e faça você mesmo. Sem rotina, todo dia uma tarde diferente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522160000 -0300" stop="20190522185000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com prioridade para os temas do cotidiano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522185000 -0300" stop="20190522192000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente SP</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522192000 -0300" stop="20190522202500 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos no Brasil e no Mundo relatados com imparcialidade e profundidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522202500 -0300" stop="20190522211000 -0300" channel="Band HD">
+    <title lang="pt">Minha Vida</title>
+    <desc lang="pt">Ao nascer Bahar é separada de sua família milionária. E entregue para criação por pessoas ambiciosas. Anos depois ela se torna o centro de plano arquitetado pelos falsos herdeiros da sua fortuna(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190522211000 -0300" stop="20190522215700 -0300" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Programa Religioso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522215700 -0300" stop="20190522220000 -0300" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <desc lang="pt">Programa Religioso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190522220000 -0300" stop="20190522234000 -0300" channel="Band HD">
+    <title lang="pt">Quarta no Cinema</title>
+    <desc lang="pt">Sessão de filmes(n)</desc>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190522234000 -0300" stop="20190523003000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Um resumo de tudo que aconteceu de relevante durante o dia, no Brasil e no Mundo. Analises, entrevistas e matérias especiais aprofundam os temas mais importantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523003000 -0300" stop="20190523003500 -0300" channel="Band HD">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <desc lang="pt">A memória esportiva brasileira sendo resgatada(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523003500 -0300" stop="20190523010000 -0300" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <desc lang="pt">As melhores pegadinhas da tv, no formato clássico de câmeras escondidas, brincando com as pessoas que passam nas ruas, praças e centros comerciais(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190523010000 -0300" stop="20190523030000 -0300" channel="Band HD">
+    <title lang="pt">O Mais Rápido Game Show</title>
+    <desc lang="pt">Programa interativo com distribuição de prêmios(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190523030000 -0300" stop="20190523043500 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto - Reapresentação</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523043500 -0300" stop="20190523053000 -0300" channel="Band HD">
+    <title lang="pt">Os Donos da Bola - Reapresentação</title>
+    <desc lang="pt">O craque Neto comanda o programa mais bem-humorado sobre o mundo do futebol. Ele e seus convidados tem uma meta: descobrir quem é o do dono da bola(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523053000 -0300" stop="20190523060000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523060000 -0300" stop="20190523070000 -0300" channel="Band HD">
+    <title lang="pt">Jornal Bandnews</title>
+    <desc lang="pt">As principais noticias da hora com a equipe do canal especializado em jornalismo, 24 horas por dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523070000 -0300" stop="20190523080000 -0300" channel="Band HD">
+    <title lang="pt">Café com Jornal</title>
+    <desc lang="pt">Informação descontraída, leve, dinâmica, com assuntos de interesse imediato. Com a participação de colunistas especializados nos temas que fazem parte do cotidiano. Noticia de qualidade desde cedo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523080000 -0300" stop="20190523090000 -0300" channel="Band HD">
+    <title lang="pt">Café com Jornal - Edição Brasil</title>
+    <desc lang="pt">Muita prestação de serviço e a participação do público, interagindo com a equipe do noticioso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523090000 -0300" stop="20190523110000 -0300" channel="Band HD">
+    <title lang="pt">Mundo Animado</title>
+    <desc lang="pt">Faixa dedicada à aventura e diversão com exibição de destacadas produções animadas da tv mundial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523110000 -0300" stop="20190523123000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">As principais notícias do futebol e um debate diário com jornalistas e esportistas sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523123000 -0300" stop="20190523130000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523130000 -0300" stop="20190523140000 -0300" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">O craque Neto comanda o programa mais bem-humorado sobre o mundo do futebol. Ele e seus convidados tem uma meta: descobrir quem é o do dono da bola(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523140000 -0300" stop="20190523150000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <desc lang="pt">Bem-estar, culinária, notícias de famosos, astrologia, dicas de limpeza, organização de casa e faça você mesmo. Sem rotina, todo dia uma tarde diferente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523150000 -0300" stop="20190523160000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <desc lang="pt">Bem-estar, culinária, notícias de famosos, astrologia, dicas de limpeza, organização de casa e faça você mesmo. Sem rotina, todo dia uma tarde diferente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523160000 -0300" stop="20190523185000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com prioridade para os temas do cotidiano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523185000 -0300" stop="20190523192000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente SP</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523192000 -0300" stop="20190523202500 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos no Brasil e no Mundo relatados com imparcialidade e profundidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523202500 -0300" stop="20190523211000 -0300" channel="Band HD">
+    <title lang="pt">Minha Vida</title>
+    <desc lang="pt">Ao nascer Bahar é separada de sua família milionária. E entregue para criação por pessoas ambiciosas. Anos depois ela se torna o centro de plano arquitetado pelos falsos herdeiros da sua fortuna(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190523211000 -0300" stop="20190523215700 -0300" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Programa Religioso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523215700 -0300" stop="20190523220000 -0300" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <desc lang="pt">Programa Religioso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190523220000 -0300" stop="20190523234000 -0300" channel="Band HD">
+    <title lang="pt">Top Cine</title>
+    <desc lang="pt">Na sua faixa nobre semanal a Band reserva uma noite para a sua sessão premium de cinema, o TOP CINE. Uma janela dedicada aos filmes de comédia, ação, aventura e suspense. Um festival permanente de sucessos da tela grande(n)</desc>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190523234000 -0300" stop="20190524003000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Um resumo de tudo que aconteceu de relevante durante o dia, no Brasil e no Mundo. Analises, entrevistas e matérias especiais aprofundam os temas mais importantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190524003000 -0300" stop="20190524003500 -0300" channel="Band HD">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <desc lang="pt">A memória esportiva brasileira sendo resgatada(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190524003500 -0300" stop="20190524010000 -0300" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <desc lang="pt">As melhores pegadinhas da tv, no formato clássico de câmeras escondidas, brincando com as pessoas que passam nas ruas, praças e centros comerciais(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190524010000 -0300" stop="20190524030000 -0300" channel="Band HD">
+    <title lang="pt">O Mais Rápido Game Show</title>
+    <desc lang="pt">Programa interativo com distribuição de prêmios(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190524030000 -0300" stop="20190524043500 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto - Reapresentação</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190524043500 -0300" stop="20190524053000 -0300" channel="Band HD">
+    <title lang="pt">Os Donos da Bola - Reapresentação</title>
+    <desc lang="pt">O craque Neto comanda o programa mais bem-humorado sobre o mundo do futebol. Ele e seus convidados tem uma meta: descobrir quem é o do dono da bola(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190524053000 -0300" stop="20190524060000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190524060000 -0300" stop="20190524070000 -0300" channel="Band HD">
+    <title lang="pt">Jornal Bandnews</title>
+    <desc lang="pt">As principais noticias da hora com a equipe do canal especializado em jornalismo, 24 horas por dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190524070000 -0300" stop="20190524080000 -0300" channel="Band HD">
+    <title lang="pt">Café com Jornal</title>
+    <desc lang="pt">Informação descontraída, leve, dinâmica, com assuntos de interesse imediato. Com a participação de colunistas especializados nos temas que fazem parte do cotidiano. Noticia de qualidade desde cedo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190524080000 -0300" stop="20190524090000 -0300" channel="Band HD">
+    <title lang="pt">Café com Jornal - Edição Brasil</title>
+    <desc lang="pt">Muita prestação de serviço e a participação do público, interagindo com a equipe do noticioso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190524090000 -0300" stop="20190524110000 -0300" channel="Band HD">
+    <title lang="pt">Mundo Animado</title>
+    <desc lang="pt">Faixa dedicada à aventura e diversão com exibição de destacadas produções animadas da tv mundial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190524110000 -0300" stop="20190524123000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">As principais notícias do futebol e um debate diário com jornalistas e esportistas sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190524123000 -0300" stop="20190524130000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190524130000 -0300" stop="20190524140000 -0300" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">O craque Neto comanda o programa mais bem-humorado sobre o mundo do futebol. Ele e seus convidados tem uma meta: descobrir quem é o do dono da bola(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190524140000 -0300" stop="20190524150000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <desc lang="pt">Bem-estar, culinária, notícias de famosos, astrologia, dicas de limpeza, organização de casa e faça você mesmo. Sem rotina, todo dia uma tarde diferente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190524150000 -0300" stop="20190524160000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <desc lang="pt">Bem-estar, culinária, notícias de famosos, astrologia, dicas de limpeza, organização de casa e faça você mesmo. Sem rotina, todo dia uma tarde diferente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190524160000 -0300" stop="20190524185000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com prioridade para os temas do cotidiano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190524185000 -0300" stop="20190524192000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente SP</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190524192000 -0300" stop="20190524202500 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos no Brasil e no Mundo relatados com imparcialidade e profundidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190524202500 -0300" stop="20190524211000 -0300" channel="Band HD">
+    <title lang="pt">Minha Vida</title>
+    <desc lang="pt">Ao nascer Bahar é separada de sua família milionária. E entregue para criação por pessoas ambiciosas. Anos depois ela se torna o centro de plano arquitetado pelos falsos herdeiros da sua fortuna(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190524211000 -0300" stop="20190524215700 -0300" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Programa Religioso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190524215700 -0300" stop="20190524220000 -0300" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <desc lang="pt">Programa Religioso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+</tv>
