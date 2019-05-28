@@ -1,0 +1,589 @@
+﻿#EXTM3U
+
+#EXTINF:0 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",[COLOR yellow]A&E HD[/COLOR]
+http://tv.factoryiptv.com:80/live/josana/josana/36929.ts
+#EXTINF:0 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Filmes e Series",[COLOR yellow]AMC HD[/COLOR]
+http://tv.factoryiptv.com:80/live/josana/josana/36928.ts
+#EXTINF:0 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Documentarios",Animal Planet HD
+http://tv.factoryiptv.com:80/live/josana/josana/36992.ts
+#EXTINF:0 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Variedades",Arte 1
+http://tv.factoryiptv.com:80/live/josana/josana/37133.ts
+#EXTINF:0 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Filmes e Series",AXN HD
+http://tv.factoryiptv.com:80/live/josana/josana/36991.ts
+#EXTINF:0 tvg-id="BabyTV" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil",Baby TV
+http://tv.factoryiptv.com:80/live/josana/josana/36993.ts
+#EXTINF:0 tvg-id="Band" tvg-name="Band HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band HD
+http://tv.factoryiptv.com:80/live/josana/josana/36990.ts
+#EXTINF:0 tvg-id="BandNews" tvg-name="Band News" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",Band News
+http://tv.factoryiptv.com:80/live/josana/josana/37126.ts
+#EXTINF:0 tvg-id="BandSports" tvg-name="Band Sports HD" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais | Esportes",Band Sports HD
+http://tv.factoryiptv.com:80/live/josana/josana/36989.ts
+#EXTINF:0 tvg-id="BIS" tvg-name="Bis HD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Variedades",Bis HD
+http://tv.factoryiptv.com:80/live/josana/josana/36988.ts
+#EXTINF:0 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Infantil",Boomerang
+http://tv.factoryiptv.com:80/live/josana/josana/37123.ts
+#EXTINF:0 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="http://i.imgur.com/8NoMJrr.png" group-title="Canais | Abertos",Canal Brasil
+http://tv.factoryiptv.com:80/live/josana/josana/37122.ts
+#EXTINF:0 tvg-id="Sony" tvg-name="Sony HD" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Filmes e Series",Sony HD
+http://tv.factoryiptv.com:80/live/josana/josana/36987.ts
+#EXTINF:0 tvg-id="Cancao Nova" tvg-name="Cançao Nova" tvg-logo="https://i.imgur.com/SzRozG4.png" group-title="Canais | Religioso",Cançao Nova
+http://tv.factoryiptv.com:80/live/josana/josana/37023.ts
+#EXTINF:0 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network HD
+http://tv.factoryiptv.com:80/live/josana/josana/36927.ts
+#EXTINF:0 tvg-id="" tvg-name="Chaves" tvg-logo="" group-title="Canais | 24 Horas",Chaves
+http://tv.factoryiptv.com:80/live/josana/josana/39762.ts
+#EXTINF:0 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Canais | Filmes e Series",Cinemax HD
+http://tv.factoryiptv.com:80/live/josana/josana/36926.ts
+#EXTINF:0 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate HD
+http://tv.factoryiptv.com:80/live/josana/josana/36986.ts
+#EXTINF:0 tvg-id="Comedy Central" tvg-name="Comedy Central HD" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central HD
+http://tv.factoryiptv.com:80/live/josana/josana/36925.ts
+#EXTINF:0 tvg-id="Curta!" tvg-name="Curta!" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Canais | Variedades",Curta!
+http://tv.factoryiptv.com:80/live/josana/josana/37117.ts
+#EXTINF:0 tvg-id="" tvg-name="DESENHOS BIBLICOS" tvg-logo="http://2.bp.blogspot.com/-6HEU0pJ2gqI/VOyIbDax8kI/AAAAAAAANGU/6B8x_EOaMOk/s1600/Desenhos%2BBiblicos%2B%2B1.png" group-title="Canais | 24 Horas",DESENHOS BIBLICOS
+http://tv.factoryiptv.com:80/live/josana/josana/39780.ts
+#EXTINF:0 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel HD
+http://tv.factoryiptv.com:80/live/josana/josana/36985.ts
+#EXTINF:0 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization HD" tvg-logo="https://1.bp.blogspot.com/-zfUSjCPSqE0/WasIODWYBVI/AAAAAAAACSE/7Y3DoKQVXuQrsCbTghQBC_Ni-DG6Mej4ACLcBGAs/s1600/downloadfile-1.png" group-title="Canais | Documentarios",Discovery Civilization HD
+http://tv.factoryiptv.com:80/live/josana/josana/36924.ts
+#EXTINF:0 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health HD" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais | Documentarios",Discovery Home & Health HD
+http://tv.factoryiptv.com:80/live/josana/josana/36984.ts
+#EXTINF:0 tvg-id="Discovery Kids" tvg-name="Discovery Kids HD" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids HD
+http://tv.factoryiptv.com:80/live/josana/josana/36923.ts
+#EXTINF:0 tvg-id="Discovery Science" tvg-name="Discovery Science HD" tvg-logo="http://logowow.net/logos/Y8rtqQriW.png" group-title="Canais | Documentarios",Discovery Science HD
+http://tv.factoryiptv.com:80/live/josana/josana/36922.ts
+#EXTINF:0 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais | Documentarios",Discovery Theater HD
+http://tv.factoryiptv.com:80/live/josana/josana/36983.ts
+#EXTINF:0 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo HD
+http://tv.factoryiptv.com:80/live/josana/josana/36982.ts
+#EXTINF:0 tvg-id="Discovery World" tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Documentarios",Discovery World HD
+http://tv.factoryiptv.com:80/live/josana/josana/36981.ts
+#EXTINF:0 tvg-id="Disney Channel" tvg-name="Disney Channel HD" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel HD
+http://tv.factoryiptv.com:80/live/josana/josana/36921.ts
+#EXTINF:0 tvg-id="Disney Junior" tvg-name="Disney JR" tvg-logo="https://i.imgur.com/HNCqSdX.png" group-title="Canais | Infantil",Disney JR
+http://tv.factoryiptv.com:80/live/josana/josana/37110.ts
+#EXTINF:0 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Infantil",Disney XD
+http://tv.factoryiptv.com:80/live/josana/josana/37109.ts
+#EXTINF:0 tvg-id="E!" tvg-name="E! Entertainment Television" tvg-logo="https://goo.gl/V6G6Hy" group-title="Canais | Variedades",E! Entertainment Television
+http://tv.factoryiptv.com:80/live/josana/josana/37108.ts
+#EXTINF:0 tvg-id="E!" tvg-name="E! HD" tvg-logo="https://goo.gl/V6G6Hy" group-title="Canais | Variedades",E! HD
+http://tv.factoryiptv.com:80/live/josana/josana/36920.ts
+#EXTINF:0 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5R2hNRFnQfEI9Cv1wXmjdYTJOXbnpwPJgI_Ky_hujhkeWDJ_XQ" group-title="Canais | Esportes",ESPN Brasil HD
+http://tv.factoryiptv.com:80/live/josana/josana/36978.ts
+#EXTINF:0 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Canais | Esportes",ESPN HD
+http://tv.factoryiptv.com:80/live/josana/josana/36977.ts
+#EXTINF:0 tvg-id="ESPN +" tvg-name="ESPN Plus HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN Plus HD
+http://tv.factoryiptv.com:80/live/josana/josana/36976.ts
+#EXTINF:0 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Canais | Esportes",Fish TV
+http://tv.factoryiptv.com:80/live/josana/josana/37103.ts
+#EXTINF:0 tvg-id="Food Network" tvg-name="Food Network HD" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="Canais | Variedades",Food Network HD
+http://tv.factoryiptv.com:80/live/josana/josana/36919.ts
+#EXTINF:0 tvg-id="Fox" tvg-name="Fox HD" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox HD
+http://tv.factoryiptv.com:80/live/josana/josana/36972.ts
+#EXTINF:0 tvg-id="FoxLife" tvg-name="Fox Life HD" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Variedades",Fox Life HD
+http://tv.factoryiptv.com:80/live/josana/josana/36918.ts
+#EXTINF:0 tvg-id="Fox Premium 1" tvg-name="Fox Premium 1  HD" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",Fox Premium 1  HD
+http://tv.factoryiptv.com:80/live/josana/josana/36974.ts
+#EXTINF:0 tvg-id="Fox Premium 2" tvg-name="Fox Premium 2 HD" tvg-logo="https://i.imgur.com/WgobCjU.png" group-title="Canais | Filmes e Series",Fox Premium 2 HD
+http://tv.factoryiptv.com:80/live/josana/josana/36973.ts
+#EXTINF:0 tvg-id="FoxSports 2" tvg-name="Fox Sports 2 HD" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",Fox Sports 2 HD
+http://tv.factoryiptv.com:80/live/josana/josana/36971.ts
+#EXTINF:0 tvg-id="FoxSports" tvg-name="Fox Sports HD" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",Fox Sports HD
+http://tv.factoryiptv.com:80/live/josana/josana/36970.ts
+#EXTINF:0 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Filmes e Series",FX HD
+http://tv.factoryiptv.com:80/live/josana/josana/36969.ts
+EXTINF:0 tvg-id="TV Anhanguera Goiania" tvg-name="GLOBO ANHANGUERA" tvg-logo="https://i.imgur.com/55jNpJk.png" group-title="Canais | Abertos",GLOBO ANHANGUERA
+http://tv.factoryiptv.com:80/live/josana/josana/38966.ts
+#EXTINF:0 tvg-id="TV Bahia" tvg-name="Globo Bahia" tvg-logo="https://i.imgur.com/qKVxMjv.png" group-title="Canais | Abertos",Globo Bahia
+http://tv.factoryiptv.com:80/live/josana/josana/37096.ts
+#EXTINF:0 tvg-id="Globo Brasilia" tvg-name="Globo Brasilia" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Brasilia
+http://tv.factoryiptv.com:80/live/josana/josana/37095.ts
+#EXTINF:0 tvg-id="EPTV Ribeirão" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",GLOBO EPTV RIBEIRÃO PRETO HD
+http://tv.factoryiptv.com:80/live/josana/josana/38640.ts
+#EXTINF:0 tvg-id="RIC TV Florianopolis" tvg-name="GLOBO FLORIANOPOLIS" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",GLOBO FLORIANOPOLIS
+http://tv.factoryiptv.com:80/live/josana/josana/38641.ts
+#EXTINF:0 tvg-id="GloboNews" tvg-name="Globo News HD" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",Globo News HD
+http://tv.factoryiptv.com:80/live/josana/josana/36917.ts
+#EXTINF:0 tvg-id="Globo Nordeste" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://i.imgur.com/41jw6Ej.png" group-title="Canais | Abertos",GLOBO NORDESTE HD
+http://tv.factoryiptv.com:80/live/josana/josana/38971.ts
+#EXTINF:0 tvg-id="Globo Rio" tvg-name="Globo RJ HD" tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais | Abertos",Globo RJ HD
+http://tv.factoryiptv.com:80/live/josana/josana/36968.ts
+#EXTINF:0 tvg-id="RPC Curitiba" tvg-name="Globo RPC Curitiba" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo RPC Curitiba
+http://tv.factoryiptv.com:80/live/josana/josana/37366.ts
+#EXTINF:0 tvg-id="Mais GloboSat" tvg-name="Globo Sat HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Sat HD
+http://tv.factoryiptv.com:80/live/josana/josana/36916.ts
+#EXTINF:0 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
+http://tv.factoryiptv.com:80/live/josana/josana/37361.ts
+#EXTINF:0 tvg-id="TV Anhanguera Goiania" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="https://i.imgur.com/55jNpJk.png" group-title="Canais | Abertos",GLOBO TV ANHANGUERA HD
+http://tv.factoryiptv.com:80/live/josana/josana/38967.ts
+#EXTINF:0 tvg-id="TV Bahia" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://i.imgur.com/qKVxMjv.png" group-title="Canais | Abertos",GLOBO TV BAHIA HD
+http://tv.factoryiptv.com:80/live/josana/josana/38968.ts
+#EXTINF:0 tvg-id="Gloob" tvg-name="Gloob HD" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob HD
+http://tv.factoryiptv.com:80/live/josana/josana/36915.ts
+#EXTINF:0 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Variedades",GNT HD
+http://tv.factoryiptv.com:80/live/josana/josana/36967.ts
+#EXTINF:0 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://t.likeiptv.com/hbo2hd.png" group-title="Canais | Filmes e Series",HBO 2 HD
+http://tv.factoryiptv.com:80/live/josana/josana/36966.ts
+#EXTINF:0 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="http://t.likeiptv.com/hbohddd.png" group-title="Canais | Filmes e Series",HBO Family HD
+http://tv.factoryiptv.com:80/live/josana/josana/36965.ts
+#EXTINF:0 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://t.likeiptv.com/hbohd.png" group-title="Canais | Filmes e Series",HBO HD
+http://tv.factoryiptv.com:80/live/josana/josana/36964.ts
+#EXTINF:0 tvg-id="HBO Plus*e" tvg-name="HBO Plus E" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Filmes e Series",HBO Plus E
+http://tv.factoryiptv.com:80/live/josana/josana/37083.ts
+#EXTINF:0 tvg-id="HBO Plus" tvg-name="HBO Plus HD" tvg-logo="http://t.likeiptv.com/hboplushd.png" group-title="Canais | Filmes e Series",HBO Plus HD
+http://tv.factoryiptv.com:80/live/josana/josana/36963.ts
+#EXTINF:0 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Filmes e Series",HBO Signature HD
+http://tv.factoryiptv.com:80/live/josana/josana/36962.ts
+#EXTINF:0 tvg-id="H2" tvg-name="History 2 HD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History 2 HD
+http://tv.factoryiptv.com:80/live/josana/josana/36961.ts
+#EXTINF:0 tvg-id="History" tvg-name="History HD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History HD
+http://tv.factoryiptv.com:80/live/josana/josana/36960.ts
+#EXTINF:0 tvg-id="ID: Investigação Discovery" tvg-name="Investigação Discovery HD" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Canais | Documentarios",Investigação Discovery HD
+http://tv.factoryiptv.com:80/live/josana/josana/36959.ts
+#EXTINF:0 tvg-id="Lifetime" tvg-name="Life Time HD" tvg-logo="http://t.likeiptv.com/lifetimehd.png" group-title="Canais | Variedades",Life Time HD
+http://tv.factoryiptv.com:80/live/josana/josana/36914.ts
+#EXTINF:0 tvg-id="Max" tvg-name="Max HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Canais | Filmes e Series",Max HD
+http://tv.factoryiptv.com:80/live/josana/josana/36913.ts
+#EXTINF:0 tvg-id="Max Prime" tvg-name="Max Prime HD" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Filmes e Series",Max Prime HD
+http://tv.factoryiptv.com:80/live/josana/josana/36912.ts
+#EXTINF:0 tvg-id="Max UP" tvg-name="Max UP HD" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Filmes e Series",Max UP HD
+http://tv.factoryiptv.com:80/live/josana/josana/36911.ts
+#EXTINF:0 tvg-id="Megapix" tvg-name="Megapix HD" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Filmes e Series",Megapix HD
+http://tv.factoryiptv.com:80/live/josana/josana/36958.ts
+#EXTINF:0 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Variedades",MTV HD
+http://tv.factoryiptv.com:80/live/josana/josana/36910.ts
+#EXTINF:0 tvg-id="Multishow" tvg-name="Multishow HD" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow HD
+http://tv.factoryiptv.com:80/live/josana/josana/36957.ts
+#EXTINF:0 tvg-id="Music Box Brazil" tvg-name="Music Box Brasil" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Variedades",Music Box Brasil
+http://tv.factoryiptv.com:80/live/josana/josana/37069.ts
+#EXTINF:0 tvg-id="NatGeo" tvg-name="NatGeo HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/738.png" group-title="Canais | Documentarios",NatGeo HD
+http://tv.factoryiptv.com:80/live/josana/josana/36956.ts
+#EXTINF:0 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids HD" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil",NatGeo Kids HD
+http://tv.factoryiptv.com:80/live/josana/josana/36909.ts
+#EXTINF:0 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild HD" tvg-logo="http://i.imgur.com/QouD1hh.png" group-title="Canais | Documentarios",NatGeo Wild HD
+http://tv.factoryiptv.com:80/live/josana/josana/36955.ts
+#EXTINF:0 tvg-id="NBR" tvg-name="NBR" tvg-logo="https://i.imgur.com/gb8AAKf.png" group-title="Canais | Abertos",NBR
+http://tv.factoryiptv.com:80/live/josana/josana/37021.ts
+#EXTINF:0 tvg-id="Nick Jr." tvg-name="Nick JR HD" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Infantil",Nick JR HD
+http://tv.factoryiptv.com:80/live/josana/josana/36908.ts
+#EXTINF:0 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil",Nickelodeon HD
+http://tv.factoryiptv.com:80/live/josana/josana/36907.ts
+#EXTINF:0 tvg-id="TV Novo Tempo" tvg-name="Novo Tempo" tvg-logo="https://i.imgur.com/Y2ncDiz.png" group-title="Canais | Religioso",Novo Tempo
+http://tv.factoryiptv.com:80/live/josana/josana/39793.ts
+#EXTINF:0 tvg-id="Off" tvg-name="OFF HD" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Variedades",OFF HD
+http://tv.factoryiptv.com:80/live/josana/josana/36954.ts
+#EXTINF:0 tvg-id="Paramount Channel" tvg-name="Paramount HD" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Filmes e Series",Paramount HD
+http://tv.factoryiptv.com:80/live/josana/josana/36953.ts
+#EXTINF:0 tvg-id="PlayboyTV" tvg-name="PlayBoy" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Canais | Adultos",PlayBoy
+http://tv.factoryiptv.com:80/live/josana/josana/37061.ts
+#EXTINF:0 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2 HD
+http://tv.factoryiptv.com:80/live/josana/josana/36952.ts
+#EXTINF:0 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 3 HD
+http://tv.factoryiptv.com:80/live/josana/josana/36951.ts
+#EXTINF:0 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 4 HD
+http://tv.factoryiptv.com:80/live/josana/josana/36950.ts
+#EXTINF:0 tvg-id="Premiere 5" tvg-name="Premiere 5 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 5 HD
+http://tv.factoryiptv.com:80/live/josana/josana/36949.ts
+#EXTINF:0 tvg-id="Premiere 6" tvg-name="Premiere 6 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 6 HD
+http://tv.factoryiptv.com:80/live/josana/josana/36906.ts
+#EXTINF:0 tvg-id="Premiere 7" tvg-name="Premiere 7 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 7 HD
+http://tv.factoryiptv.com:80/live/josana/josana/36905.ts
+#EXTINF:0 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere Clubes HD
+http://tv.factoryiptv.com:80/live/josana/josana/36948.ts
+#EXTINF:0 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brasil" tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="Canais | Filmes e Series",Prime Box Brasil
+http://tv.factoryiptv.com:80/live/josana/josana/37053.ts
+#EXTINF:0 tvg-id="TV Rá-Tim-Bum" tvg-name="Ra Tim Bum" tvg-logo="https://i.imgur.com/0MrTbLP.png" group-title="Canais | Infantil",Ra Tim Bum
+http://tv.factoryiptv.com:80/live/josana/josana/37015.ts
+#EXTINF:0 tvg-id="RBI TV" tvg-name="RBI TV" tvg-logo="https://i.imgur.com/N1aJlTw.png" group-title="Canais | Abertos",RBI TV
+http://tv.factoryiptv.com:80/live/josana/josana/37014.ts
+#EXTINF:0 tvg-id="RecordTV" tvg-name="Record HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",Record HD
+http://tv.factoryiptv.com:80/live/josana/josana/36947.ts
+#EXTINF:0 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News HD
+http://tv.factoryiptv.com:80/live/josana/josana/37050.ts
+#EXTINF:0 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="https://i.imgur.com/nDzoCw3.png" group-title="Canais | Abertos",Rede Brasil
+http://tv.factoryiptv.com:80/live/josana/josana/37013.ts
+#EXTINF:0 tvg-id="RedeTV!" tvg-name="Rede TV HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",Rede TV HD
+http://tv.factoryiptv.com:80/live/josana/josana/36946.ts
+#EXTINF:0 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/yuEWxEV.png" group-title="Canais | Religioso",Rede Vida
+http://tv.factoryiptv.com:80/live/josana/josana/37011.ts
+#EXTINF:0 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
+http://tv.factoryiptv.com:80/live/josana/josana/36945.ts
+#EXTINF:0 tvg-id="Sextreme" tvg-name="Sextreme" tvg-logo="http://i.imgur.com/rxDFBSw.png" group-title="Canais | Adultos",Sextreme
+http://tv.factoryiptv.com:80/live/josana/josana/pedrohenrique7.ts
+#EXTINF:0 tvg-id="SexyHot" tvg-name="Sexy Hot" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Canais | Adultos",Sexy Hot
+http://tv.factoryiptv.com:80/live/josana/josana/37009.ts
+#EXTINF:0 tvg-id="" tvg-name="SHOW DA VIOLA" tvg-logo="" group-title="Canais | 24 Horas",SHOW DA VIOLA
+http://tv.factoryiptv.com:80/live/josana/josana/39770.ts
+#EXTINF:0 tvg-id="" tvg-name="Simone e Simaria Bar das Coleguinhas" tvg-logo="" group-title="Shows",Simone e Simaria Bar das Coleguinhas
+http://tv.factoryiptv.com:80/live/josana/josana/39792.ts
+#EXTINF:0 tvg-id="Sony" tvg-name="Sony" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Filmes e Series",Sony
+http://tv.factoryiptv.com:80/live/josana/josana/37007.ts
+#EXTINF:0 tvg-id="Space" tvg-name="Space HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Filmes e Series",Space HD
+http://tv.factoryiptv.com:80/live/josana/josana/36944.ts
+#EXTINF:0 tvg-id="SporTV 2" tvg-name="Sportv 2 HD" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",Sportv 2 HD
+http://tv.factoryiptv.com:80/live/josana/josana/36943.ts
+#EXTINF:0 tvg-id="SporTV 3" tvg-name="Sportv 3 HD" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Esportes",Sportv 3 HD
+http://tv.factoryiptv.com:80/live/josana/josana/36942.ts
+#EXTINF:0 tvg-id="SporTV" tvg-name="Sportv HD" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv HD
+http://tv.factoryiptv.com:80/live/josana/josana/37255.ts
+#EXTINF:0 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais | Filmes e Series",Studio Universal HD
+http://tv.factoryiptv.com:80/live/josana/josana/36904.ts
+#EXTINF:0 tvg-id="Syfy" tvg-name="Syfy HD" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="Canais | Filmes e Series",Syfy HD
+http://tv.factoryiptv.com:80/live/josana/josana/36903.ts
+#EXTINF:0 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Canais | Variedades",TBS HD
+http://tv.factoryiptv.com:80/live/josana/josana/36940.ts
+#EXTINF:0 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://tbsila.cdn.turner.com/tbsila/hashtag/assets/tcm/logo.png" group-title="Canais | Filmes e Series",TCM
+http://tv.factoryiptv.com:80/live/josana/josana/37037.ts
+#EXTINF:0 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",Telecine Action HD
+http://tv.factoryiptv.com:80/live/josana/josana/36939.ts
+#EXTINF:0 tvg-id="Telecine Cult" tvg-name="Telecine Cult HD" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Canais | Filmes e Series",Telecine Cult HD
+http://tv.factoryiptv.com:80/live/josana/josana/36901.ts
+#EXTINF:0 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Filmes e Series",Telecine Fun HD
+http://tv.factoryiptv.com:80/live/josana/josana/36938.ts
+#EXTINF:0 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",Telecine Pipoca HD
+http://tv.factoryiptv.com:80/live/josana/josana/36937.ts
+#EXTINF:0 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD" tvg-logo="" group-title="Canais | Filmes e Series",Telecine Premium HD
+http://tv.factoryiptv.com:80/live/josana/josana/36936.ts
+#EXTINF:0 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Canais | Filmes e Series",Telecine Touch HD
+http://tv.factoryiptv.com:80/live/josana/josana/36935.ts
+#EXTINF:0 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://i.imgur.com/Lasl3ys.png" group-title="Canais | Variedades",Terra Viva
+http://tv.factoryiptv.com:80/live/josana/josana/37004.ts
+#EXTINF:0 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Canais | Variedades",TLC HD
+http://tv.factoryiptv.com:80/live/josana/josana/36902.ts
+#EXTINF:0 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://t.likeiptv.com/tnthd1.png" group-title="Canais | Filmes e Series",TNT HD
+http://tv.factoryiptv.com:80/live/josana/josana/36934.ts
+#EXTINF:0 tvg-id="TNT Series" tvg-name="TNT Series HD" tvg-logo="http://t.likeiptv.com/tntserieshd.png" group-title="Canais | Filmes e Series",TNT Series HD
+http://tv.factoryiptv.com:80/live/josana/josana/36933.ts
+#EXTINF:0 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Canais | Infantil",Tooncast
+http://tv.factoryiptv.com:80/live/josana/josana/37033.ts
+#EXTINF:0 tvg-id="TruTV" tvg-name="Tru TV" tvg-logo="https://i.imgur.com/qxeEe8p.png" group-title="Canais | Variedades",Tru TV
+http://tv.factoryiptv.com:80/live/josana/josana/37032.ts
+#EXTINF:0 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="http://i.imgur.com/UOMWJH6.png" group-title="Canais | Religioso",TV Aparecida
+http://tv.factoryiptv.com:80/live/josana/josana/37003.ts
+#EXTINF:0 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="http://t.likeiptv.com/tvbrasil.png" group-title="Canais | Abertos",TV Brasil
+http://tv.factoryiptv.com:80/live/josana/josana/37002.ts
+#EXTINF:0 tvg-id="TV Escola" tvg-name="TV Escola" tvg-logo="http://i.imgur.com/oSZZKxP.png" group-title="Canais | Abertos",TV Escola
+http://tv.factoryiptv.com:80/live/josana/josana/36999.ts
+#EXTINF:0 tvg-id="Gloobinho" tvg-name="TV GLOOBINHO HD" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil",TV GLOOBINHO HD
+http://tv.factoryiptv.com:80/live/josana/josana/38969.ts
+#EXTINF:0 tvg-id="TV TEM Bauru" tvg-name="TV Tem Bauru" tvg-logo="https://i.imgur.com/n6a7ez8.png" group-title="Canais | Abertos",TV Tem Bauru
+http://tv.factoryiptv.com:80/live/josana/josana/37030.ts
+#EXTINF:0 tvg-id="TV TEM Sorocaba" tvg-name="TV Tem Sorocaba" tvg-logo="https://i.imgur.com/n6a7ez8.png" group-title="Canais | Abertos",TV Tem Sorocaba
+http://tv.factoryiptv.com:80/live/josana/josana/37029.ts
+#EXTINF:0 tvg-id="TV Verdes Mares" tvg-name="TV Verdes mares" tvg-logo="https://i.imgur.com/wfTcvoz.png" group-title="Canais | Abertos",TV Verdes mares
+http://tv.factoryiptv.com:80/live/josana/josana/37028.ts
+#EXTINF:0 tvg-id="Universal Channel" tvg-name="Universal Channel HD" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Filmes e Series",Universal Channel HD
+http://tv.factoryiptv.com:80/live/josana/josana/36932.ts
+#EXTINF:0 tvg-id="Venus" tvg-name="Venus" tvg-logo="https://i.imgur.com/Ru2GvCs.png" group-title="Canais | Adultos",Venus
+http://tv.factoryiptv.com:80/live/josana/josana/37026.ts
+#EXTINF:0 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="http://i.imgur.com/ST4gtJb.png" group-title="Canais | Variedades",VH1 HD
+http://tv.factoryiptv.com:80/live/josana/josana/36900.ts
+#EXTINF:0 tvg-id="VH1 MegaHits" tvg-name="VH1 Mega Hits" tvg-logo="http://i.imgur.com/ST4gtJb.png" group-title="Canais | Variedades",VH1 Mega Hits
+http://tv.factoryiptv.com:80/live/josana/josana/36998.ts
+#EXTINF:0 tvg-id="Viva" tvg-name="Viva HD" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Variedades",Viva HD
+http://tv.factoryiptv.com:80/live/josana/josana/36931.ts
+#EXTINF:0 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Filmes e Series",Warner Channel
+http://tv.factoryiptv.com:80/live/josana/josana/36996.ts
+#EXTINF:0 tvg-id="Warner Channel" tvg-name="Warner HD" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Filmes e Series",Warner HD
+http://tv.factoryiptv.com:80/live/josana/josana/36930.ts
+#EXTINF:0 tvg-id="Woohoo" tvg-name="Woohoo" tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="Canais | Variedades",Woohoo
+http://tv.factoryiptv.com:80/live/josana/josana/37025.ts
+#EXTINF:0 tvg-id="Woohoo" tvg-name="Woohoo HD" tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="Canais | Variedades",Woohoo HD
+http://tv.factoryiptv.com:80/live/josana/josana/36899.ts
+#EXTINF:0 tvg-id="" tvg-name="CABARE EDUARDO COSTA & LEONARDO" tvg-logo="" group-title="Shows",CABARE EDUARDO COSTA & LEONARDO
+http://tv.factoryiptv.com:80/live/josana/josana/39768.ts
+#EXTINF:0 tvg-id="" tvg-name="FESTIVAL SERTANEJO" tvg-logo="" group-title="Shows",FESTIVAL SERTANEJO
+http://tv.factoryiptv.com:80/live/josana/josana/39772.ts
+#EXTINF:0 tvg-id="" tvg-name="Festival Sertanejo 2018" tvg-logo="" group-title="Shows",Festival Sertanejo 2018
+http://tv.factoryiptv.com:80/live/josana/josana/39771.ts
+#EXTINF:0 tvg-id="" tvg-name="O MELHOR DO PAGODE" tvg-logo="" group-title="Shows",O MELHOR DO PAGODE
+http://tv.factoryiptv.com:80/live/josana/josana/39773.ts
+#EXTINF:0 tvg-id="" tvg-name="Teletubbies" tvg-logo="" group-title="Canais | 24 Horas",Teletubbies
+http://tv.factoryiptv.com:80/live/josana/josana/39583.ts
+#EXTINF:0 tvg-id="" tvg-name="Banda Calypso" tvg-logo="" group-title="Shows",Banda Calypso
+http://tv.factoryiptv.com:80/live/josana/josana/39787.ts
+#EXTINF:0 tvg-id="" tvg-name="BANDA FORROZÃO DAS ANTIGAS" tvg-logo="" group-title="Shows",BANDA FORROZÃO DAS ANTIGAS
+http://tv.factoryiptv.com:80/live/josana/josana/39786.ts
+#EXTINF:0 tvg-id="" tvg-name="David Guetta" tvg-logo="" group-title="Shows",David Guetta
+http://tv.factoryiptv.com:80/live/josana/josana/39785.ts
+#EXTINF:0 tvg-id="" tvg-name="Frank Aguiar" tvg-logo="" group-title="Shows",Frank Aguiar
+http://tv.factoryiptv.com:80/live/josana/josana/39788.ts
+#EXTINF:0 tvg-id="" tvg-name="JOAO NETO E FREDERICO" tvg-logo="" group-title="Shows",JOAO NETO E FREDERICO
+http://tv.factoryiptv.com:80/live/josana/josana/39790.ts
+#EXTINF:0 tvg-id="" tvg-name="Milionario e Jose Rico" tvg-logo="" group-title="Shows",Milionario e Jose Rico
+http://tv.factoryiptv.com:80/live/josana/josana/39789.ts
+#EXTINF:0 tvg-id="" tvg-name="Racionais Mc's" tvg-logo="" group-title="Shows",Racionais Mc's
+http://tv.factoryiptv.com:80/live/josana/josana/39784.ts
+#EXTINF:0 tvg-id="" tvg-name="Teodoro & Sampaio" tvg-logo="" group-title="Shows",Teodoro & Sampaio
+http://tv.factoryiptv.com:80/live/josana/josana/39791.ts
+#EXTINF:0 tvg-id="" tvg-name="Zé Neto e Cristiano" tvg-logo="" group-title="Shows",Zé Neto e Cristiano
+http://tv.factoryiptv.com:80/live/josana/josana/39769.ts
+#EXTINF:0 tvg-id="" tvg-name="Super Radio Tupi" tvg-logo="https://i.imgur.com/fcBCwcT.png" group-title="Radios",Super Radio Tupi
+http://tv.factoryiptv.com:80/live/josana/josana/37367.ts
+#EXTINF:0 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Abertos",Cultura
+http://tv.factoryiptv.com:80/live/josana/josana/40073.ts
+#EXTINF:0 tvg-id="Futura" tvg-name="Canal Futura" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Canal Futura
+http://tv.factoryiptv.com:80/live/josana/josana/40074.ts
+#EXTINF:0 tvg-id="" tvg-name="HIT TV HD" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/Hit-TV.png?fit=400%2C260" group-title="Canais | Variedades",HIT TV HD
+http://tv.factoryiptv.com:80/live/josana/josana/40075.ts
+#EXTINF:0 tvg-id="TV Evangelizar" tvg-name="Tv Evangelizar" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="Canais | Religioso",Tv Evangelizar
+http://tv.factoryiptv.com:80/live/josana/josana/40072.ts
+#EXTINF:0 tvg-id="" tvg-name="Rede Plenitude TV" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/thumb/7/7d/Logo_iaptd.png/460px-Logo_iaptd.png" group-title="Canais | Religioso",Rede Plenitude TV
+http://tv.factoryiptv.com:80/live/josana/josana/40078.ts
+#EXTINF:0 tvg-id="" tvg-name="Tv Espírita" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3273e6ac3e1898fe443ef9182133054a.png" group-title="Canais | Religioso",Tv Espírita
+http://tv.factoryiptv.com:80/live/josana/josana/40077.ts
+#EXTINF:0 tvg-id="Boa Vontade TV" tvg-name="Boa Vontade TV" tvg-logo="https://mitvstatic.com/channels/br_boa-vontade-tv_m.png" group-title="Canais | Religioso",Boa Vontade TV
+http://tv.factoryiptv.com:80/live/josana/josana/40081.ts
+#EXTINF:0 tvg-id="TV Mundial" tvg-name="IMPD TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg" group-title="Canais | Religioso",IMPD TV
+http://tv.factoryiptv.com:80/live/josana/josana/40080.ts
+#EXTINF:0 tvg-id="TV Universal" tvg-name="Tv Universal" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c3d5c184450857c9f064bd7b608e9fb8.jpg" group-title="Canais | Religioso",Tv Universal
+http://tv.factoryiptv.com:80/live/josana/josana/40079.ts
+
+#EXTINF:0 tvg-id="Rede Seculo 21" tvg-name="Tv Século 21" tvg-logo="http://i.imgur.com/ORv5J6Y.png" group-title="Canais | Religioso",Tv Século 21
+http://tv.factoryiptv.com:80/live/josana/josana/40098.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Rádio Bandeirantes FM" tvg-logo="http://imagem.band.com.br/novahome/444d253d-71b4-4983-84ab-077f94ee6a80.png" group-title="Radios",Rádio Bandeirantes FM
+http://tv.factoryiptv.com:80/live/josana/josana/40105.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Rádio Cidade FM" tvg-logo="http://1.bp.blogspot.com/-tFKyU3KPhvc/VCYWeEc3xXI/AAAAAAAAWeo/-v1TTOofFew/s1600/RADIO_CIDADE_FM_CACHOEIRO_ITAPEMIRIM.jpg" group-title="Radios",Rádio Cidade FM
+http://tv.factoryiptv.com:80/live/josana/josana/40099.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Rádio Coca Cola FM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s196724q.png" group-title="Radios",Rádio Coca Cola FM
+http://tv.factoryiptv.com:80/live/josana/josana/40101.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Rádio Globo RJ" tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/3/33063.v5.png" group-title="Radios",Rádio Globo RJ
+http://tv.factoryiptv.com:80/live/josana/josana/40100.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Rádio Litoral FM" tvg-logo="http://cdn-radiotime-logos.tunein.com/s158562q.png" group-title="Radios",Rádio Litoral FM
+http://tv.factoryiptv.com:80/live/josana/josana/40104.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Rádio Mania FM" tvg-logo="http://www.radiomania.com.br/wp-content/themes/radiomania/imagens/logo.png" group-title="Radios",Rádio Mania FM
+http://tv.factoryiptv.com:80/live/josana/josana/40102.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Rádio Rock FM" tvg-logo="http://www.rockfmrio.com/wp-content/uploads/2017/01/LogoSite.png" group-title="Radios",Rádio Rock FM
+http://tv.factoryiptv.com:80/live/josana/josana/40103.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Cascavel Panorâmica" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f869e31dbca32dca5d9adda8f13fcd09.png" group-title="Câmeras | 24 Horas",Cascavel Panorâmica
+http://tv.factoryiptv.com:80/live/josana/josana/40116.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Goiânia - Viaduto Av. T-63" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/845c513f846274d6eb8b63a61326151b.png" group-title="Câmeras | 24 Horas",Goiânia - Viaduto Av. T-63
+http://tv.factoryiptv.com:80/live/josana/josana/40118.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Muro das Lamentações (Western Wall)" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0e38cd5526d5729065b538d59a66b03d.png" group-title="Câmeras | 24 Horas",Muro das Lamentações (Western Wall)
+http://tv.factoryiptv.com:80/live/josana/josana/40110.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Naha Airport" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b00fe4c8e68e38b5cbe7f93df1fd1e7e.jpg" group-title="Câmeras | 24 Horas",Naha Airport
+http://tv.factoryiptv.com:80/live/josana/josana/40109.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Ponte Internacional da Amizade" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f1af60306ec4f464b05dd7d1e8c1f116.jpg" group-title="Câmeras | 24 Horas",Ponte Internacional da Amizade
+http://tv.factoryiptv.com:80/live/josana/josana/40107.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Rio de Janeiro - Copacabana" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5881b447c22ccca2c4d6a528c6125bce.jpg" group-title="Câmeras | 24 Horas",Rio de Janeiro - Copacabana
+http://tv.factoryiptv.com:80/live/josana/josana/40106.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Santuário De Aparecida - Altar Central" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/987e6c8d012e857161c1e788e3e4da2b.png" group-title="Câmeras | 24 Horas",Santuário De Aparecida - Altar Central
+http://tv.factoryiptv.com:80/live/josana/josana/40115.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Temple Bar" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8b17acafc7a8363de6b040bbeda039d6.png" group-title="Câmeras | 24 Horas",Temple Bar
+http://tv.factoryiptv.com:80/live/josana/josana/40113.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Times Square" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/79f69f9233742d0aa618e83574ea854e.jpg" group-title="Câmeras | 24 Horas",Times Square
+http://tv.factoryiptv.com:80/live/josana/josana/40112.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Yellowstone National Park - Geyser" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d10d41f99ffbe26eaf5555de1dff576b.png" group-title="Câmeras | 24 Horas",Yellowstone National Park - Geyser
+http://tv.factoryiptv.com:80/live/josana/josana/40114.ts
+
+#EXTINF:0 tvg-id="Gazeta" tvg-name="TV Gazeta HD" tvg-logo="https://4.bp.blogspot.com/-njl0j_tJ_j8/T9pJrd6srTI/AAAAAAAAMWo/69-3gYzq9uY/s1600/Logo+TV+Gazeta.png" group-title="Canais | Variedades",TV Gazeta HD
+http://tv.factoryiptv.com:80/live/josana/josana/40120.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Tv Padre Cicero" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dab5e88e8a6365ed0890db70b53b2764.png" group-title="Canais | Religioso",Tv Padre Cicero
+http://tv.factoryiptv.com:80/live/josana/josana/40126.ts
+
+#EXTINF:0 tvg-id="TV Imaculada Conceicao" tvg-name="TV Imaculada Conceição" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/798e12bbccbc19d6e254463b1b072f06.png" group-title="Canais | Religioso",TV Imaculada Conceição
+http://tv.factoryiptv.com:80/live/josana/josana/40127.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Tv Alvorada Espirita" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c87e36de564e887c7a9ed534c1d1127a.png" group-title="Canais | Religioso",Tv Alvorada Espirita
+http://tv.factoryiptv.com:80/live/josana/josana/40128.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Rio Na Graça TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d81088bf7dc5ce3ff87eac94aeaf77a6.png" group-title="Canais | Religioso",Rio Na Graça TV
+http://tv.factoryiptv.com:80/live/josana/josana/40124.ts
+
+#EXTINF:0 tvg-id="Rede Super" tvg-name="Rede Super" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8e36e41c32123ed0b12dfdef0ff75875.jpg" group-title="Canais | Religioso",Rede Super
+http://tv.factoryiptv.com:80/live/josana/josana/40123.ts
+
+#EXTINF:0 tvg-id="Rede Gospel" tvg-name="Gospel Movie TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" group-title="Canais | Religioso",Gospel Movie TV
+http://tv.factoryiptv.com:80/live/josana/josana/40122.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Convert Tv" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6b2769c87629afcf71dbb16b49de7c29.png" group-title="Canais | Religioso",Convert Tv
+http://tv.factoryiptv.com:80/live/josana/josana/40125.ts
+
+#EXTINF:0 tvg-id="CineBrasil TV" tvg-name="CINE+" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Canais | Filmes e Series",CINE+
+http://tv.factoryiptv.com:80/live/josana/josana/40121.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Red Light HD" tvg-logo="https://gl.weburg.net/00/tv/channels/1/831/bigposter/6363234.png" group-title="Canais | Adultos",Red Light HD
+http://tv.factoryiptv.com:80/live/josana/josana/40131.ts
+
+#EXTINF:0 tvg-id="Canal 26" tvg-name="Canal 26" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/55bbaf68c40165a36c468aa26ac5a747.png" group-title="Canais | Internacionais",Canal 26
+http://tv.factoryiptv.com:80/live/josana/josana/40146.ts
+
+#EXTINF:0 tvg-id="" tvg-name="NHK WORLD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b885dddf8d0e990d24c4a3fae05c4194.png" group-title="Canais | Internacionais",NHK WORLD
+http://tv.factoryiptv.com:80/live/josana/josana/40147.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Visit-X HD" tvg-logo="https://4.bp.blogspot.com/-jat222DQaEc/WTmX4ulHwdI/AAAAAAAAApk/FVp3CDFzadkhU4yz9KIB0Qgei1shaT3RACLcB/s200/Visit-X-TV.jpg" group-title="Canais | Adultos",Visit-X HD
+http://tv.factoryiptv.com:80/live/josana/josana/40151.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Blue Hustler" tvg-logo="http://www.galka.if.ua/wp-content/uploads/2018/04/Blue-Hustler-200x200.jpg" group-title="Canais | Adultos",Blue Hustler
+http://tv.factoryiptv.com:80/live/josana/josana/40180.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Pinko TV" tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/04/pink_o_tv.png" group-title="Canais | Adultos",Pinko TV
+http://tv.factoryiptv.com:80/live/josana/josana/40181.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Alpha Channel TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/06e18759438df70dd3efc2b3ed744ba2.png" group-title="Canais | Variedades",Alpha Channel TV
+http://tv.factoryiptv.com:80/live/josana/josana/40190.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Capital TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8a69b968527ce6d3a2083fc05ec56753.png" group-title="Canais | Internacionais",Capital TV
+http://tv.factoryiptv.com:80/live/josana/josana/40182.ts
+
+#EXTINF:0 tvg-id="" tvg-name="CBTV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f24169065abbca5112493217775b6172.jpg" group-title="Canais | Internacionais",CBTV
+http://tv.factoryiptv.com:80/live/josana/josana/40195.ts
+
+#EXTINF:0 tvg-id="" tvg-name="City Television" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0857fe1805cd03868763314eba8e34c2.png" group-title="Canais | Internacionais",City Television
+http://tv.factoryiptv.com:80/live/josana/josana/40191.ts
+
+#EXTINF:0 tvg-id="" tvg-name="CPAC" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9bc0c62654e96d50ee89c1b3da1c7bfe.jpg" group-title="Canais | Internacionais",CPAC
+http://tv.factoryiptv.com:80/live/josana/josana/40188.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Fox 23 News" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d5b258a1676eeedc661a140792b5603d.jpg" group-title="Canais | Internacionais",Fox 23 News
+http://tv.factoryiptv.com:80/live/josana/josana/40198.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Hispan TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/559c38874d0ba37800d727925e1654b4.png" group-title="Canais | Internacionais",Hispan TV
+http://tv.factoryiptv.com:80/live/josana/josana/40187.ts
+
+#EXTINF:0 tvg-id="" tvg-name="LUX TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/154d133592058f321d9d44a4d9d3e166.jpg" group-title="Canais | Internacionais",LUX TV
+http://tv.factoryiptv.com:80/live/josana/josana/40192.ts
+
+#EXTINF:0 tvg-id="" tvg-name="MLB Network" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ee4c267eb8ceadf63a93090b9844f642.png" group-title="Canais | Internacionais",MLB Network
+http://tv.factoryiptv.com:80/live/josana/josana/40199.ts
+
+#EXTINF:0 tvg-id="" tvg-name="NFL Now" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fcb479e4f562160879434df930fd827b.png" group-title="Canais | Internacionais",NFL Now
+http://tv.factoryiptv.com:80/live/josana/josana/40197.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Rede Mazza" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aea65b2c4555a6fe22a7adb36f05cdb1.png" group-title="Canais | Variedades",Rede Mazza
+http://tv.factoryiptv.com:80/live/josana/josana/40193.ts
+
+#EXTINF:0 tvg-id="Rede Minas" tvg-name="Rede Minas" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/17007d69e234910da3da1ac85e3d49b9.jpg" group-title="Canais | Variedades",Rede Minas
+http://tv.factoryiptv.com:80/live/josana/josana/40183.ts
+
+#EXTINF:0 tvg-id="" tvg-name="TUFF TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ccd67d553557a0bce634771a8d6b1115.png" group-title="Canais | Internacionais",TUFF TV
+http://tv.factoryiptv.com:80/live/josana/josana/40196.ts
+
+#EXTINF:0 tvg-id="TV Camara Caxias" tvg-name="TV Câmara Caxias do Sul" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a21e5d497fe0f1fc302afd7f02082730.jpg" group-title="Canais | Variedades",TV Câmara Caxias do Sul
+http://tv.factoryiptv.com:80/live/josana/josana/40189.ts
+
+#EXTINF:0 tvg-id="CATVE" tvg-name="TV CATVE" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b3559796c3af8698f1de6163c34454cb.jpg" group-title="Canais | Variedades",TV CATVE
+http://tv.factoryiptv.com:80/live/josana/josana/40186.ts
+
+#EXTINF:0 tvg-id="" tvg-name="TV Grande Natal HD" tvg-logo="https://pbs.twimg.com/profile_images/713544945555083264/XLsBLhwO.jpg" group-title="Canais | Variedades",TV Grande Natal HD
+http://tv.factoryiptv.com:80/live/josana/josana/40166.ts
+
+#EXTINF:0 tvg-id="TV Guara" tvg-name="TV Guará" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c84cb251395cf7314d2d0b5e7091d6ee.png" group-title="Canais | Noticias",TV Guará
+http://tv.factoryiptv.com:80/live/josana/josana/40185.ts
+
+#EXTINF:0 tvg-id="TV Uniao" tvg-name="Tv Uniao de Natal" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f88c0985cd9dcafd1347663418bb3c33.jpg" group-title="Canais | Variedades",Tv Uniao de Natal
+http://tv.factoryiptv.com:80/live/josana/josana/40184.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Banff" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/77fc5503802e9a39ec5517fce5925541.png" group-title="Câmeras | 24 Horas",Banff
+http://tv.factoryiptv.com:80/live/josana/josana/40207.ts
+
+#EXTINF:0 tvg-id="" tvg-name="CBN SP 90,5 FM - Estúdio Ao Vivo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0d14f4b6c83f6bc0fc2766d3602113d0.png" group-title="Câmeras | 24 Horas",CBN SP 90,5 FM - Estúdio Ao Vivo
+http://tv.factoryiptv.com:80/live/josana/josana/40212.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Crystal Bay Beach Resort" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e5b669849dc31124918b36d62681c754.png" group-title="Câmeras | 24 Horas",Crystal Bay Beach Resort
+http://tv.factoryiptv.com:80/live/josana/josana/40208.ts
+
+#EXTINF:0 tvg-id="" tvg-name="FM O Dia 100,5 FM - Estúdio Ao Vivo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28987a4ac0e1c027f469ff70d132a5a8.png" group-title="Câmeras | 24 Horas",FM O Dia 100,5 FM - Estúdio Ao Vivo
+http://tv.factoryiptv.com:80/live/josana/josana/40203.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Jackson Hole Town Square" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0c348923d45a9e00346ca7fd44af0783.png" group-title="Câmeras | 24 Horas",Jackson Hole Town Square
+http://tv.factoryiptv.com:80/live/josana/josana/40211.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Rádio Jornal 780 AM 90,3 FM" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a6d3646ced1ef33351e5c2eb68f9ec14.png" group-title="Câmeras | 24 Horas",Rádio Jornal 780 AM 90,3 FM
+http://tv.factoryiptv.com:80/live/josana/josana/40213.ts
+
+#EXTINF:0 tvg-id="" tvg-name="TeleBärn" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9005845dafd7598d202d9b1e8221e6f7.png" group-title="Canais | Internacionais",TeleBärn
+http://tv.factoryiptv.com:80/live/josana/josana/40201.ts
+
+#EXTINF:0 tvg-id="1001 Noites" tvg-name="1001 NOITES" tvg-logo="https://i.imgur.com/ojWfXDH.png" group-title="Canais | Abertos",1001 NOITES
+http://tv.factoryiptv.com:80/live/josana/josana/40217.ts
+
+#EXTINF:0 tvg-id="Canal do Boi" tvg-name="CANAL DO BOI" tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="Canais | Abertos",CANAL DO BOI
+http://tv.factoryiptv.com:80/live/josana/josana/40218.ts
+
+#EXTINF:0 tvg-id="" tvg-name="CINE SKY" tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Series",CINE SKY
+http://tv.factoryiptv.com:80/live/josana/josana/40216.ts
+
+#EXTINF:0 tvg-id="" tvg-name="SKY NEWS" tvg-logo="https://i.imgur.com/kpRfowV.jpg" group-title="Canais | Internacionais",SKY NEWS
+http://tv.factoryiptv.com:80/live/josana/josana/40223.ts
+
+#EXTINF:0 tvg-id="AmazonSat" tvg-name="TV AMAZON SAT" tvg-logo="https://i.imgur.com/kESeqRG.png" group-title="Canais | Abertos",TV AMAZON SAT
+http://tv.factoryiptv.com:80/live/josana/josana/40220.ts
+
+#EXTINF:0 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://i.imgur.com/FdKHLtc.png" group-title="Canais | Abertos",Canal Rural
+http://tv.factoryiptv.com:80/live/josana/josana/40224.ts
+
+#EXTINF:0 tvg-id="Canal Saúde" tvg-name="Canal Saúde" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5529576ad0928d6b81bcc0da7ca0e652.jpg" group-title="Canais | Abertos",Canal Saúde
+http://tv.factoryiptv.com:80/live/josana/josana/40230.ts
+
+#EXTINF:0 tvg-id="RCI" tvg-name="RCI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TVCi.png/200px-TVCi.png" group-title="Canais | Religioso",RCI
+http://tv.factoryiptv.com:80/live/josana/josana/40229.ts
+
+#EXTINF:0 tvg-id="NGT" tvg-name="Rede NGT" tvg-logo="http://www.redengt.com.br/wp-content/themes/redengt/images/logo.png" group-title="Canais | Abertos",Rede NGT
+http://tv.factoryiptv.com:80/live/josana/josana/40231.ts
+
+#EXTINF:0 tvg-id="TopTV" tvg-name="Top TV" tvg-logo="http://redetoptv.com.br/wp-content/themes/arocket/images/logo.png" group-title="Canais | Abertos",Top TV
+http://tv.factoryiptv.com:80/live/josana/josana/40228.ts
+
+#EXTINF:0 tvg-id="TV Diario" tvg-name="TV Diário" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" group-title="Canais | Abertos",TV Diário
+http://tv.factoryiptv.com:80/live/josana/josana/40226.ts
+
+#EXTINF:0 tvg-id="TV Galega" tvg-name="TV Galega" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a6085796633d9278fccb8ca555250aef.jpg" group-title="Canais | Noticias",TV Galega
+http://tv.factoryiptv.com:80/live/josana/josana/40236.ts
+
+#EXTINF:0 tvg-id="TV Litoral Sul" tvg-name="TV Litoral" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12da3aa22277f0d63f827d0fce4de59d.jpg" group-title="Canais | Noticias",TV Litoral
+http://tv.factoryiptv.com:80/live/josana/josana/40233.ts
+
+#EXTINF:0 tvg-id="" tvg-name="TV Portal Midia" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0cb3fc00ec2adfd013415da064c681bd.png" group-title="Canais | Noticias",TV Portal Midia
+http://tv.factoryiptv.com:80/live/josana/josana/40235.ts
+
+#EXTINF:0 tvg-id="" tvg-name="TV Revista" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/06cf4d59905aa1532681c36d507df4ec.png" group-title="Canais | Noticias",TV Revista
+http://tv.factoryiptv.com:80/live/josana/josana/40239.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Web Tv Agua Boa" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d2c576b1bec374ee33c01714244201bd.jpg" group-title="Canais | Noticias",Web Tv Agua Boa
+http://tv.factoryiptv.com:80/live/josana/josana/40234.ts
+
+#EXTINF:0 tvg-id="Rede Família" tvg-name="Rede Família" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg" group-title="Canais | Noticias",Rede Família
+http://tv.factoryiptv.com:80/live/josana/josana/40237.ts
+
+#EXTINF:0 tvg-id="" tvg-name="NTV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/47a7239c307e792a12c58344a52d69d7.png" group-title="Canais | Noticias",NTV
+http://tv.factoryiptv.com:80/live/josana/josana/40232.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Milk TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bfd20c5b4b6b0bf0d824ac9577032d0e.jpg" group-title="Canais | Noticias",Milk TV
+http://tv.factoryiptv.com:80/live/josana/josana/40238.ts
+
+#EXTINF:0 tvg-id="Agro Canal" tvg-name="Agro Canal" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ddf87ee412553236ff71fdb6a2f5d8ce.jpg" group-title="Canais | Abertos",Agro Canal
+http://tv.factoryiptv.com:80/live/josana/josana/40244.ts
+
+#EXTINF:0 tvg-id="Rede Gospel" tvg-name="TV Rede Gospel" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4bde8a9c788e4ae4b2d76359d0889963.jpg" group-title="Canais | Religioso",TV Rede Gospel
+http://tv.factoryiptv.com:80/live/josana/josana/40247.ts
+
+#EXTINF:0 tvg-id="EPTV Campinas" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",GLOBO EPTV CAMPINAS HD
+http://tv.factoryiptv.com:80/live/josana/josana/40249.ts
+
+#EXTINF:0 tvg-id="Globo Minas" tvg-name="GLOBO MINAS HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",GLOBO MINAS HD
+http://tv.factoryiptv.com:80/live/josana/josana/40251.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Dorcel" tvg-logo="http://nextgen-iptv.com/logo/dorcel%20tv.png" group-title="Canais | Adultos",Dorcel
+http://tv.factoryiptv.com:80/live/josana/josana/40254.ts
+
+#EXTINF:0 tvg-id="" tvg-name="Jasmin TV HD" tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="Canais | Adultos",Jasmin TV HD
+http://tv.factoryiptv.com:80/live/josana/josana/40272.ts
